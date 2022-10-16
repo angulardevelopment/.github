@@ -96,6 +96,20 @@ page 3
 - https://github.com/angulardevelopment/calculator
 - https://github.com/angulardevelopment/agile-board
 - https://github.com/angulardevelopment/world-map
+
+page 4
+
+- https://github.com/angulardevelopment/google-maps
+- https://github.com/angulardevelopment/webpack
+- https://github.com/angulardevelopment/alert-popup
+- https://github.com/angulardevelopment/offline-app
+- https://github.com/angulardevelopment/i18n-Internationalization
+- https://github.com/angulardevelopment/multi-step-form
+- https://github.com/angulardevelopment/parallax-scroll
+- https://github.com/angulardevelopment/cloudinary
+- https://github.com/angulardevelopment/firebase-app
+- https://github.com/angulardevelopment/directive
+- https://github.com/angulardevelopment/redux-tool
 <!--
 
 **Here are some ideas to get you started:**
