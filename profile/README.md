@@ -29,6 +29,39 @@
 - https://github.com/angulardevelopment/emailjs
 - https://github.com/angulardevelopment/animation-metadata
 - https://github.com/angulardevelopment/angular-material
+
+page2
+
+- https://github.com/angulardevelopment/agora-calling-app
+- https://github.com/angulardevelopment/agora-live-streaming-app
+- https://github.com/angulardevelopment/export-excel
+- https://github.com/angulardevelopment/shopping-app-assignment
+- https://github.com/angulardevelopment/ngxgraph
+- https://github.com/angulardevelopment/units-conversion
+- https://github.com/angulardevelopment/shaka-player
+- https://github.com/angulardevelopment/school-app
+- https://github.com/angulardevelopment/handsontable
+- https://github.com/angulardevelopment/timer-apps
+- https://github.com/angulardevelopment/google-analytics
+- https://github.com/angulardevelopment/restaurant-app-assignment
+- https://github.com/angulardevelopment/products-app-assignment
+- https://github.com/angulardevelopment/login-assignment
+- https://github.com/angulardevelopment/blogger-apis
+- https://github.com/angulardevelopment/hyperloop
+- https://github.com/angulardevelopment/todo-notes
+- https://github.com/angulardevelopment/maze-game-assignment
+- https://github.com/angulardevelopment/cdk-demo
+- https://github.com/angulardevelopment/monorepo-nx
+- https://github.com/angulardevelopment/virtual-scrolling
+- https://github.com/angulardevelopment/primeng
+- https://github.com/angulardevelopment/book-rating-app-assignment
+- https://github.com/angulardevelopment/lazy-load-module
+- https://github.com/angulardevelopment/carousel-base
+- https://github.com/angulardevelopment/dynamic-component
+- https://github.com/angulardevelopment/currency-convertor
+- https://github.com/angulardevelopment/digital-unit-conversion-app
+- https://github.com/angulardevelopment/weather-forecast-app
+- https://github.com/angulardevelopment/quote-generator-app
 <!--
 
 **Here are some ideas to get you started:**
