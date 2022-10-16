@@ -62,6 +62,40 @@ page2
 - https://github.com/angulardevelopment/digital-unit-conversion-app
 - https://github.com/angulardevelopment/weather-forecast-app
 - https://github.com/angulardevelopment/quote-generator-app
+
+page 3
+
+
+- https://github.com/angulardevelopment/Whack-a-mole-game
+- https://github.com/angulardevelopment/hackernews
+- https://github.com/angulardevelopment/portfolio-app
+- https://github.com/angulardevelopment/image-slider
+- https://github.com/angulardevelopment/bar-code-generator
+- https://github.com/angulardevelopment/youtube-apis
+- https://github.com/angulardevelopment/social-login
+- https://github.com/angulardevelopment/lazy-load-images
+- https://github.com/angulardevelopment/mailer-list-assignment
+- https://github.com/angulardevelopment/googledoc-assignment
+- https://github.com/angulardevelopment/restaurants-app-assignment
+- https://github.com/angulardevelopment/photo-capture-app
+- https://github.com/angulardevelopment/video-player-app
+- https://github.com/angulardevelopment/sound-app
+- https://github.com/angulardevelopment/geolocation-api
+- https://github.com/angulardevelopment/mouse-pointer
+- https://github.com/angulardevelopment/voice-app
+- https://github.com/angulardevelopment/simon-game
+- https://github.com/angulardevelopment/image-editor
+- https://github.com/angulardevelopment/highlight-search-text
+- https://github.com/angulardevelopment/coin-flip-game
+- https://github.com/angulardevelopment/export-pdf
+- https://github.com/angulardevelopment/zoom-calling
+- https://github.com/angulardevelopment/abstract-class-application
+- https://github.com/angulardevelopment/quiz-app
+- https://github.com/angulardevelopment/github-search
+- https://github.com/angulardevelopment/create-app-steps
+- https://github.com/angulardevelopment/calculator
+- https://github.com/angulardevelopment/agile-board
+- https://github.com/angulardevelopment/world-map
 <!--
 
 **Here are some ideas to get you started:**
