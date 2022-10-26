@@ -79,7 +79,6 @@ page 3
 - https://github.com/angulardevelopment/restaurants-app-assignment
 - https://github.com/angulardevelopment/photo-capture-app
 - https://github.com/angulardevelopment/video-player-app
-- https://github.com/angulardevelopment/sound-app
 - https://github.com/angulardevelopment/geolocation-api
 - https://github.com/angulardevelopment/mouse-pointer
 - https://github.com/angulardevelopment/voice-app
