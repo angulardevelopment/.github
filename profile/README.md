@@ -69,7 +69,6 @@ page 3
 - https://github.com/angulardevelopment/Whack-a-mole-game
 - https://github.com/angulardevelopment/hackernews
 - https://github.com/angulardevelopment/portfolio-app
-- https://github.com/angulardevelopment/image-slider
 - https://github.com/angulardevelopment/bar-code-generator
 - https://github.com/angulardevelopment/youtube-apis
 - https://github.com/angulardevelopment/social-login
@@ -83,7 +82,6 @@ page 3
 - https://github.com/angulardevelopment/mouse-pointer
 - https://github.com/angulardevelopment/voice-app
 - https://github.com/angulardevelopment/simon-game
-- https://github.com/angulardevelopment/image-editor
 - https://github.com/angulardevelopment/highlight-search-text
 - https://github.com/angulardevelopment/coin-flip-game
 - https://github.com/angulardevelopment/export-pdf
