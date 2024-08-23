@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here's a draft for your Angular development page:
 
 ---
 
@@ -19,8 +18,6 @@ You'll find everything you need to join us in development in our [Documentation 
 Our team's breakfast choices are as diverse as our coding styles! From smoothie bowls to the classic dosa, we like to mix things up. But one thing we all agree on is the importance of a good cup of chai or coffee to start our coding day right.
 
 ---
-
-Feel free to personalize this template to align with your team's culture and the specifics of your Angular project.</md-block>
 
 <!--
 
