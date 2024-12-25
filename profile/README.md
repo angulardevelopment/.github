@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+## Overview
 ---
 
 ### Welcome to Our Angular Development Hub!
@@ -17,7 +17,37 @@ You'll find everything you need to join us in development in our [Documentation 
 **A Bit of Fun:**
 Our team's breakfast choices are as diverse as our coding styles! From smoothie bowls to the classic dosa, we like to mix things up. But one thing we all agree on is the importance of a good cup of chai or coffee to start our coding day right.
 
+# Code for next generation
+ Our mission is to develop cutting-edge technologies and solutions that address complex challenges and drive progress across various industries.
+
+## Organizational Structure
+
+### 1. Executive Team
+- **Creator : sunny7899**
+## Key Projects
+
+1. **standalone components**
+2. **Agora**
+3. **Offline storage**
+
+...
+
+## Vision and Goals
+
+- **Innovation**: Continuously push the boundaries of technology.
+
+## Contact
+
+- **Website**: [code-for-next-generation](https://code-for-next-generation.vercel.app/)
+- **GitHub**: [sunny7899 GitHub](https://github.com/sunny7899)
+- **Instagram**: [sunny7899 Instagram](https://www.instagram.com/angular_development/)
+
+For more information or collaboration inquiries, please contact us through our website or Instagram.
+
 ---
+
+Codeforweb - Innovating for a smarter future._
+
 
 <!--
 
