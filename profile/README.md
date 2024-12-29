@@ -41,6 +41,7 @@ Our team's breakfast choices are as diverse as our coding styles! From smoothie 
 - **Website**: [code-for-next-generation](https://code-for-next-generation.vercel.app/)
 - **GitHub**: [sunny7899 GitHub](https://github.com/sunny7899)
 - **Instagram**: [sunny7899 Instagram](https://www.instagram.com/angular_development/)
+- **Youtube**: [Neweraofcoding](https://www.youtube.com/@neweraofcoding/)
 
 For more information or collaboration inquiries, please contact us through our website or Instagram. 
 
